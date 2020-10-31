@@ -14,4 +14,7 @@ reset.css
 images folder
 IMG 0-11 (7&10 omitted)
 
-
+Screenshot laptop/desktop view: images\Screenshot1.png
+Screenshot mobile view: images\Screenshot1-2.png
+Screenshot laptop/desktop view: images\Screenshot2.png
+Screenshot mobile view: images\Screenshot2-2.png
