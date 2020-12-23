@@ -1,7 +1,3 @@
-# Mobile_Responsive_Portfolio
-
-Goal: 
-
 
 # Mobile Responsive Portfolio
 
